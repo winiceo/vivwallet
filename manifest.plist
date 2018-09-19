@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vivwallet.io/vivwallet.ipa</string>
+					<string>https://vivwallet.io/vivwallet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://vivwallet.io/small.png</string>
+					<string>https://vivwallet.io/small.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://vivwallet.io/large.png</string>
+					<string>https://vivwallet.io/large.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
