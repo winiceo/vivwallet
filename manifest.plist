@@ -11,8 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vivwallet.oss-cn-beijing.aliyuncs.com/vivwallet.ipa
-</string>
+					<string>https://vivwallet.io/vivwallet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
